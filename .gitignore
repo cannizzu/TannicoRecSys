@@ -1,3 +1,4 @@
-*.csv
-*.tsv
 .idea/*
+Data/Interest/*
+Data/Processed Data/*
+Data/Similarities/*
